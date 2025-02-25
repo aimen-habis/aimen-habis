@@ -3,14 +3,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimen-habis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=aimen-habis&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aimen-habis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47ls7byk9ho5dgaxkgpib5cg2wzpw9ql1llmj0fbf6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47ls7byk9ho5dgaxkgpib5cg2wzpw9ql1llmj0fbf6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aimen-habis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aimen-habis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -63,14 +64,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aimen-habis/aimen-habis/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/aimen-habis/count.svg?"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/aimen-habis/aimen-habis/output/snake.svg" alt="Snake animation" />
 
 ###
