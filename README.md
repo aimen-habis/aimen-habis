@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 I'm Aimen Habis, a passionate programmer with experience in managing large-scale servers, including the database of an international Algerian airport. I've developed AI-powered Telegram bots and have a deep interest in creating innovative solutions. My expertise lies in programming and working with advanced technologies to improve user experiences and automation.</h2>
+                    <h2 align="center">Hi 👋 I'm Aimen Habis, a passionate programmer with experience in managing large-scale servers, including the database of an international Algerian airport. I've developed AI-powered Telegram bots and have a deep interest in creating innovative solutions. My expertise lies in programming and working with advanced technologies to improve user experiences and automation.</h2>
 
 ###
  
@@ -14,11 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aimen-habis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  
+ 
 ### 
  
  
-<div align="center">
+<div align="center">     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
