@@ -27,8 +27,7 @@
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%" alt="divider"/>
 
 <h2>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist.png?raw=true" width="32"></picture>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist.png?raw=true" width="32" alt=""/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Man%20Technologist.png?raw=true" width="32" alt="developer"/>
   &nbsp;About Me
 </h2>
 
@@ -77,65 +76,122 @@ const aimen: Developer = {
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%" alt="divider"/>
 
 <h2 align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Hammer%20and%20Wrench.png?raw=true" width="32" alt="tools"/>
   &nbsp;Tech Arsenal&nbsp;
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Toolbox.png?raw=true" width="32" alt="toolbox"/>
 </h2>
 
 <div align="center">
 
+### 💻 Languages
+
 <table>
 <tr>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/><br>JavaScript
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/><br><sub><b>JavaScript</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60"/><br>TypeScript
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/><br><sub><b>TypeScript</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/><br>Python
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/><br><sub><b>Python</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="55" height="55"/><br>C#
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="55" height="55"/><br><sub><b>C#</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="60" height="60"/><br>HTML5
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/><br><sub><b>HTML5</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="60" height="60"/><br>CSS3
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/><br><sub><b>CSS3</b></sub>
 </td>
 </tr>
+</table>
+
+### ⚛️ Frameworks & Runtime
+
+<table>
 <tr>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="React" width="60" height="60"/><br>React
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/><br><sub><b>Node.js</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/><br>Node.js
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="55" height="55"/><br><sub><b>Express.js</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/><br>MySQL
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55" height="55"/><br><sub><b>React</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="PostgreSQL" width="60" height="60"/><br>PostgreSQL
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55"/><br><sub><b>Next.js</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="55" height="55"/><br>SQL Server
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="55" height="55"/><br><sub><b>Tailwind</b></sub>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60"/><br>GitHub
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="55" height="55"/><br><sub><b>.NET</b></sub>
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases
+
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/><br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/><br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="55" height="55"/><br><sub><b>SQL Server</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/><br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="55" height="55"/><br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="55" height="55"/><br><sub><b>SQLite</b></sub>
+</td>
+</tr>
+</table>
+
+### 🔧 Tools & DevOps
+
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55" style="background:white;border-radius:50%;padding:4px;"/><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/><br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/><br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="55" height="55"/><br><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="55" height="55"/><br><sub><b>Postman</b></sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-#### 🤖 AI • Bots • Cloud
+### 🤖 AI • Bots • APIs
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
 
@@ -146,9 +202,9 @@ const aimen: Developer = {
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%" alt="divider"/>
 
 <h2 align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Chart%20Increasing.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Chart%20Increasing.png?raw=true" width="32" alt="chart"/>
   &nbsp;GitHub Performance&nbsp;
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Fire.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Fire.png?raw=true" width="32" alt="fire"/>
 </h2>
 
 <div align="center">
@@ -194,9 +250,9 @@ const aimen: Developer = {
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%" alt="divider"/>
 
 <h2 align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png?raw=true" width="32" alt="globe"/>
   &nbsp;Let's Connect&nbsp;
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png?raw=true" width="32" alt="handshake"/>
 </h2>
 
 <div align="center">
@@ -234,7 +290,7 @@ const aimen: Developer = {
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="100%" alt="divider"/>
 
 <h2 align="center">
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Light%20Bulb.png?raw=true" width="32"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Light%20Bulb.png?raw=true" width="32" alt="lightbulb"/>
   &nbsp;Dev Wisdom of the Day
 </h2>
 
@@ -267,9 +323,9 @@ const aimen: Developer = {
 <div align="center">
 
 <h3>
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Sparkles.png?raw=true" width="28"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Star-Struck.png?raw=true" width="28" alt="star-struck"/>
   &nbsp;Found my work interesting?&nbsp;
-  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Star-Struck.png?raw=true" width="28"/>
+  <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png?raw=true" width="28" alt="heart-eyes"/>
 </h3>
 
 <p>
